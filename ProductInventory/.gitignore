@@ -1,0 +1,9 @@
+inventory
+inventory.exe
+*.o
+*.obj
+*.out
+*.exe
+*.log
+.DS_Store
+Thumbs.db
