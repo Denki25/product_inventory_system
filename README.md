@@ -68,8 +68,8 @@ On Windows with MSYS2/MinGW, run `mingw32-make` if `make` is not available.
 
 ## Default Credentials
 
-- Admin username: `admin`
-- Admin password: `1234`
+- Admin username: 1234
+- Admin password: 1234
 
 You can override the admin password with an environment variable:
 
